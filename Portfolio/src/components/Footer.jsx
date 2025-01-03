@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const Footer = () => {
   const socialLinks = [
     { name: 'Github', href: 'https://github.com/Dielldev', icon: '↗' },
-    { name: 'VSCO', href: 'https://vsco.co/diellgovorii/gallery', icon: '↗' },
+    { name: 'Youtube', href: 'https://www.youtube.com/@diell_btw', icon: '↗' },
     { name: 'Instagram', href: 'https://www.instagram.com/diellgovori/', icon: '↗' },
     { name: 'LinkedIn', href: 'https://www.linkedin.com/in/diell-govori-3a32b528b/', icon: '↗' },
   ];
