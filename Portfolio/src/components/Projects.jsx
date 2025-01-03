@@ -70,19 +70,19 @@ const Projects = () => {
                             className="group relative bg-[#131B2E]/50 rounded-2xl p-6 lg:p-8 backdrop-blur-sm border border-white/5 hover:border-accent/30 transition-all duration-300"
                         >
                             {/* Project Image */}
-                            <div className="mb-6">
+                            <div className="mb-4">
                                 <div className="relative group-hover:scale-[1.02] transition-transform duration-300">
                                     <div className="absolute -inset-1 bg-gradient-to-r from-accent to-purple-600 rounded-lg blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
                                     <img 
                                         src={project.image}
                                         alt={`${project.title} Screenshot`}
-                                        className="relative rounded-lg shadow-2xl w-full h-[350px] object-cover"
+                                        className="relative rounded-lg shadow-2xl w-full h-[250px] object-cover"
                                     />
                                 </div>
                             </div>
 
                             {/* Project Info */}
-                            <div className="space-y-6">
+                            <div className="space-y-4">
                                 <div>
                                     <div className="flex items-center gap-3 mb-3">
                                         <p className="text-accent text-sm font-medium">{project.company}</p>
