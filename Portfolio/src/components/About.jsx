@@ -201,7 +201,7 @@ const About = () => {
                             </p>
                             
                             <a
-                                href="/CV/CV_Diell_Govori.pdf"
+                                href="/CV/CV_Diell.pdf"
                                 download="CV_Diell_Govori.pdf"
                                 className="inline-flex items-center gap-2 bg-accent hover:bg-accent/90 text-white px-6 py-3 rounded-lg transition-all duration-300 mt-4"
                             >
