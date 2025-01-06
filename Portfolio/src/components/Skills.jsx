@@ -8,8 +8,7 @@ const Skills = () => {
                 "TypeScript",
                 "Tailwind CSS",
                 "HTML/CSS",
-                "Next.js",
-                "Redux"
+                "Next.js"
             ]
         },
         {
@@ -18,10 +17,9 @@ const Skills = () => {
                 "Node.js",
                 "Python",
                 "Java",
-                "Laravel",
                 "Express.js",
-                "SQL",
-                "MongoDB"
+                "SQL"
+                
             ]
         },
         {
@@ -30,10 +28,7 @@ const Skills = () => {
                 "Git",
                 "Docker",
                 "AWS",
-                "Firebase",
-                "REST APIs",
-                "CI/CD",
-                "Agile"
+                "REST APIs"
             ]
         }
     ];
