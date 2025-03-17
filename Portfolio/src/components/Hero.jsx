@@ -1,6 +1,6 @@
 import '../styles/Hero.css';
 import '../styles/Transitions.css';
-import pfp from '../assets/images/pfp2.png'
+import pfp from '../assets/images/pfp.png'
 import { FaReact, FaNode, FaPython, FaJava } from 'react-icons/fa';
 import { SiJavascript, SiTailwindcss, SiLaravel  } from 'react-icons/si';
 
@@ -11,7 +11,7 @@ const Hero = () => {
     { name: "Tailwind", icon: <SiTailwindcss className="tech-icon" /> },
     { name: "Python", icon: <FaPython className="tech-icon" /> },
     { name: "Node", icon: <FaNode className="tech-icon" /> },
-    { name: "Java", icon: <FaJava className="tech-icon" /> },
+    { name: "Java", icon: <FaJava className="tech-3icon" /> },
     { name: "Laravel", icon: <SiLaravel className="tech-icon" /> }
     
   ];
