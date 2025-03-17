@@ -1,6 +1,6 @@
 import '../styles/Hero.css';
 import '../styles/Transitions.css';
-import pfp from '../assets/images/pfp.png'
+import pfp from '../assets/images/pfp3.png'
 import { FaReact, FaNode, FaPython, FaJava } from 'react-icons/fa';
 import { SiJavascript, SiTailwindcss, SiLaravel  } from 'react-icons/si';
 
